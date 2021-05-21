@@ -1,2 +1,2 @@
-# my_site
-My Description
+# A site describing me
+My short description
